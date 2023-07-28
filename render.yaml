@@ -1,0 +1,3 @@
+services:
+  - name: ec3desarrollo
+    port: 8080
